@@ -4,3 +4,7 @@ composer.phar
 
 ### PhpStorm ###
 .idea/
+
+## Other rules
+*.tmp
+*-temp.php
